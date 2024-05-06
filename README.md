@@ -1,3 +1,4 @@
+  ![logo](https://github.com/Prashanta11/Prashanta11/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 - <h1 align="center">Hi 👋, I'm Prashanta Deuja</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 <img align="right" alt="coding" width="400"src="https://github.com/Prashanta11/Prashanta11/assets/135291964/9ee6637d-53a8-4014-be9d-6b8f74cf076b">
